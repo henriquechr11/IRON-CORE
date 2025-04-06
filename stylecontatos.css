@@ -1,0 +1,45 @@
+
+.table{width: 100%;
+    margin: 0;
+    height: 100vh;
+    border-collapse: collapse;
+    text-align: center;
+}
+.img1{height: 15dvh;
+}
+
+td{height: 10dvh;
+width: 10dvh  ;}
+#aa{text-align: center;}
+#b{width:30dvh;
+text-align: left;}
+#c{text-decoration: none;}
+.icon{height: 3dvh;}
+#black{background-color: black;
+color: aliceblue;}
+#gray{background-color: rgb(190, 189, 189);}
+#w{background-color: white;}
+#rosa{background-color: rgb(203, 108, 230) ;}
+
+.escolher {
+    width: 250px;
+}
+#grande{font-size: 50px;}
+
+#aa{font-size: 10px;}
+
+.mb{border: 3dvh;
+    background-color: rgb(203, 108, 230) ; 
+    padding: 15px 32px;
+cursor: pointer;}
+.placa{height: 150px;}
+a{text-decoration: none;
+color: black;}
+.pp{width: 5%;
+height: 1dvh;}
+.txt{width: 60%;
+height: 30px   ;}
+
+
+
+
